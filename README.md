@@ -31,11 +31,11 @@ To recompile run: `dart compile exe {workspace}/bin/tasker.dart`, then run the p
 ---
 
 ### functionality:
-[x] Modal task manager
-[x] select multiple and delete
-[x] delete under cursor if not selected
-[] reorder items
-[] local storage
-[] categories
-[] pages
-[] submenus
+- [x] Modal task manager
+- [x] select multiple and delete
+- [x] delete under cursor if not selected
+- [ ] reorder items
+- [ ] local storage
+- [ ] categories
+- [ ] pages
+- [ ] submenus
